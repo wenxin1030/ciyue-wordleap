@@ -2,6 +2,8 @@
 
 > 让每个单词，都在该忘记之前重逢。
 
+**在线体验**：[wenxin1030.github.io/ciyue-wordleap](https://wenxin1030.github.io/ciyue-wordleap/) · **源码仓库**：[GitHub](https://github.com/wenxin1030/ciyue-wordleap)
+
 基于艾宾浩斯遗忘曲线的英语单词背诵系统，课程《Web智能化》结课项目。系统以 Vue 3 + Element Plus 实现，包含学习、复习、词书管理、错词本、学习统计、词汇森林、听写擂台、成就与个人中心等完整流程；所有学习数据保存在浏览器 localStorage，打开即可使用。
 
 ## 功能概览
