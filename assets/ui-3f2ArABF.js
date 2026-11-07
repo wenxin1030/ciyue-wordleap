@@ -1,0 +1,1 @@
+import{Z as s,_ as a,$ as i}from"./index-tVs-X65_.js";const o=s("ui",{state:()=>({sidebarCollapsed:i("sidebar",!1),mobileNav:!1,searchOpen:!1,notifyOpen:!1,preview:null}),actions:{toggleSidebar(){this.sidebarCollapsed=!this.sidebarCollapsed,a("sidebar",this.sidebarCollapsed)},openWord(e){this.preview=e||null},closeWord(){this.preview=null}}});export{o as u};
